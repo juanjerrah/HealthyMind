@@ -1,0 +1,133 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Application.Humor/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Domain.Humor": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Application.Humor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Application.Humor.dll": {}
+        }
+      },
+      "Data.Humor/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Domain.Humor": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Data.Humor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Data.Humor.dll": {}
+        }
+      },
+      "Domain.Humor/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Domain.Humor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Domain.Humor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Application.Humor/1.0.0": {
+      "type": "project",
+      "path": "../../../Application/HealthyMind/Application.Humor/Application.Humor.csproj",
+      "msbuildProject": "../../../Application/HealthyMind/Application.Humor/Application.Humor.csproj"
+    },
+    "Data.Humor/1.0.0": {
+      "type": "project",
+      "path": "../../Infra.Data/Data.Humor/Data.Humor.csproj",
+      "msbuildProject": "../../Infra.Data/Data.Humor/Data.Humor.csproj"
+    },
+    "Domain.Humor/1.0.0": {
+      "type": "project",
+      "path": "../../../Domain/HealthyMind/Domain.Humor/Domain.Humor.csproj",
+      "msbuildProject": "../../../Domain/HealthyMind/Domain.Humor/Domain.Humor.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Application.Humor >= 1.0.0",
+      "Data.Humor >= 1.0.0",
+      "Domain.Humor >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\juanj\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Projetos\\BreakingBad\\Infra\\Infra.IoC\\IoC.Humor\\IoC.Humor.csproj",
+      "projectName": "IoC.Humor",
+      "projectPath": "C:\\Projetos\\BreakingBad\\Infra\\Infra.IoC\\IoC.Humor\\IoC.Humor.csproj",
+      "packagesPath": "C:\\Users\\juanj\\.nuget\\packages\\",
+      "outputPath": "C:\\Projetos\\BreakingBad\\Infra\\Infra.IoC\\IoC.Humor\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\juanj\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Projetos\\BreakingBad\\Application\\HealthyMind\\Application.Humor\\Application.Humor.csproj": {
+              "projectPath": "C:\\Projetos\\BreakingBad\\Application\\HealthyMind\\Application.Humor\\Application.Humor.csproj"
+            },
+            "C:\\Projetos\\BreakingBad\\Domain\\HealthyMind\\Domain.Humor\\Domain.Humor.csproj": {
+              "projectPath": "C:\\Projetos\\BreakingBad\\Domain\\HealthyMind\\Domain.Humor\\Domain.Humor.csproj"
+            },
+            "C:\\Projetos\\BreakingBad\\Infra\\Infra.Data\\Data.Humor\\Data.Humor.csproj": {
+              "projectPath": "C:\\Projetos\\BreakingBad\\Infra\\Infra.Data\\Data.Humor\\Data.Humor.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

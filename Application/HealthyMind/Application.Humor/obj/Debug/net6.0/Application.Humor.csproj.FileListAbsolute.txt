@@ -1,0 +1,12 @@
+C:\Projetos\BreakingBad\Application\HealthyMind\Application.Humor\bin\Debug\net6.0\Application.Humor.deps.json
+C:\Projetos\BreakingBad\Application\HealthyMind\Application.Humor\bin\Debug\net6.0\Application.Humor.dll
+C:\Projetos\BreakingBad\Application\HealthyMind\Application.Humor\bin\Debug\net6.0\Application.Humor.pdb
+C:\Projetos\BreakingBad\Application\HealthyMind\Application.Humor\obj\Debug\net6.0\Application.Humor.csproj.AssemblyReference.cache
+C:\Projetos\BreakingBad\Application\HealthyMind\Application.Humor\obj\Debug\net6.0\Application.Humor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\BreakingBad\Application\HealthyMind\Application.Humor\obj\Debug\net6.0\Application.Humor.AssemblyInfoInputs.cache
+C:\Projetos\BreakingBad\Application\HealthyMind\Application.Humor\obj\Debug\net6.0\Application.Humor.AssemblyInfo.cs
+C:\Projetos\BreakingBad\Application\HealthyMind\Application.Humor\obj\Debug\net6.0\Application.Humor.csproj.CoreCompileInputs.cache
+C:\Projetos\BreakingBad\Application\HealthyMind\Application.Humor\obj\Debug\net6.0\Application.Humor.dll
+C:\Projetos\BreakingBad\Application\HealthyMind\Application.Humor\obj\Debug\net6.0\refint\Application.Humor.dll
+C:\Projetos\BreakingBad\Application\HealthyMind\Application.Humor\obj\Debug\net6.0\Application.Humor.pdb
+C:\Projetos\BreakingBad\Application\HealthyMind\Application.Humor\obj\Debug\net6.0\ref\Application.Humor.dll

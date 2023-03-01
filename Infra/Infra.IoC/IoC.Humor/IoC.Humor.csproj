@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\..\..\Application\HealthyMind\Application.Humor\Application.Humor.csproj" />
+      <ProjectReference Include="..\..\..\Domain\HealthyMind\Domain.Humor\Domain.Humor.csproj" />
+      <ProjectReference Include="..\..\Infra.Data\Data.Humor\Data.Humor.csproj" />
+    </ItemGroup>
+
+</Project>

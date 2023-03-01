@@ -1,0 +1,12 @@
+C:\Projetos\BreakingBad\Infra\Infra.IoC\IoC.Humor\bin\Debug\net6.0\IoC.Humor.deps.json
+C:\Projetos\BreakingBad\Infra\Infra.IoC\IoC.Humor\bin\Debug\net6.0\IoC.Humor.dll
+C:\Projetos\BreakingBad\Infra\Infra.IoC\IoC.Humor\bin\Debug\net6.0\IoC.Humor.pdb
+C:\Projetos\BreakingBad\Infra\Infra.IoC\IoC.Humor\obj\Debug\net6.0\IoC.Humor.csproj.AssemblyReference.cache
+C:\Projetos\BreakingBad\Infra\Infra.IoC\IoC.Humor\obj\Debug\net6.0\IoC.Humor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\BreakingBad\Infra\Infra.IoC\IoC.Humor\obj\Debug\net6.0\IoC.Humor.AssemblyInfoInputs.cache
+C:\Projetos\BreakingBad\Infra\Infra.IoC\IoC.Humor\obj\Debug\net6.0\IoC.Humor.AssemblyInfo.cs
+C:\Projetos\BreakingBad\Infra\Infra.IoC\IoC.Humor\obj\Debug\net6.0\IoC.Humor.csproj.CoreCompileInputs.cache
+C:\Projetos\BreakingBad\Infra\Infra.IoC\IoC.Humor\obj\Debug\net6.0\IoC.Humor.dll
+C:\Projetos\BreakingBad\Infra\Infra.IoC\IoC.Humor\obj\Debug\net6.0\refint\IoC.Humor.dll
+C:\Projetos\BreakingBad\Infra\Infra.IoC\IoC.Humor\obj\Debug\net6.0\IoC.Humor.pdb
+C:\Projetos\BreakingBad\Infra\Infra.IoC\IoC.Humor\obj\Debug\net6.0\ref\IoC.Humor.dll
