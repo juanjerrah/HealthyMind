@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "Data.Humor/1.0.0": {
+        "dependencies": {
+          "Domain.Humor": "1.0.0"
+        },
         "runtime": {
           "Data.Humor.dll": {}
+        }
+      },
+      "Domain.Humor/1.0.0": {
+        "runtime": {
+          "Domain.Humor.dll": {}
         }
       }
     }
   },
   "libraries": {
     "Data.Humor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Domain.Humor/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

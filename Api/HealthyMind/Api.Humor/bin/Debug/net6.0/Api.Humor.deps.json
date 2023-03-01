@@ -8,6 +8,8 @@
     ".NETCoreApp,Version=v6.0": {
       "Api.Humor/1.0.0": {
         "dependencies": {
+          "Data.Humor": "1.0.0",
+          "IoC.Humor": "1.0.0",
           "Swashbuckle.AspNetCore": "6.2.3"
         },
         "runtime": {
@@ -60,6 +62,37 @@
             "fileVersion": "6.2.3.0"
           }
         }
+      },
+      "Application.Humor/1.0.0": {
+        "dependencies": {
+          "Domain.Humor": "1.0.0"
+        },
+        "runtime": {
+          "Application.Humor.dll": {}
+        }
+      },
+      "Data.Humor/1.0.0": {
+        "dependencies": {
+          "Domain.Humor": "1.0.0"
+        },
+        "runtime": {
+          "Data.Humor.dll": {}
+        }
+      },
+      "Domain.Humor/1.0.0": {
+        "runtime": {
+          "Domain.Humor.dll": {}
+        }
+      },
+      "IoC.Humor/1.0.0": {
+        "dependencies": {
+          "Application.Humor": "1.0.0",
+          "Data.Humor": "1.0.0",
+          "Domain.Humor": "1.0.0"
+        },
+        "runtime": {
+          "IoC.Humor.dll": {}
+        }
       }
     }
   },
@@ -110,6 +143,26 @@
       "sha512": "sha512-bCRI87uKJVb4G+KURWm8LQrL64St04dEFZcF6gIM67Zc0Sr/N47EO83ybLMYOvfNdO1DCv8xwPcrz9J/VEhQ5g==",
       "path": "swashbuckle.aspnetcore.swaggerui/6.2.3",
       "hashPath": "swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+    },
+    "Application.Humor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Data.Humor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Domain.Humor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IoC.Humor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

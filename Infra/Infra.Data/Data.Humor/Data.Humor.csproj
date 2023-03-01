@@ -10,4 +10,16 @@
       <ProjectReference Include="..\..\..\Domain\HealthyMind\Domain.Humor\Domain.Humor.csproj" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Folder Include="Config" />
+    </ItemGroup>
+
+    <Target Name="PostBuild" AfterTargets="PostBuildEvent">
+        <ItemGroup>
+            <SourceConfig Include="../../../Config/*.json"/>
+        </ItemGroup>
+
+        <Copy SourceFiles="@(SourceConfig)" DestinationFolder="./Config" SkipUnchangedFiles="true"/>
+    </Target>
+
 </Project>

@@ -33,10 +33,6 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HealthyMind", "HealthyMind", "{F63944A9-AC7B-4D1F-AF8C-DA998A648CB4}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Config", "Config", "{CABF8EFC-AAD8-431E-9A98-359F598BF7E4}"
-	ProjectSection(SolutionItems) = preProject
-		appsettings.Development.json = appsettings.Development.json
-		appsettings.json = appsettings.json
-	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

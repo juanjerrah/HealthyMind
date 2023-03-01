@@ -23,3 +23,13 @@ C:\Projetos\BreakingBad\Api\HealthyMind\Api.Humor\obj\Debug\net6.0\refint\Api.Hu
 C:\Projetos\BreakingBad\Api\HealthyMind\Api.Humor\obj\Debug\net6.0\Api.Humor.pdb
 C:\Projetos\BreakingBad\Api\HealthyMind\Api.Humor\obj\Debug\net6.0\Api.Humor.genruntimeconfig.cache
 C:\Projetos\BreakingBad\Api\HealthyMind\Api.Humor\obj\Debug\net6.0\ref\Api.Humor.dll
+C:\Projetos\BreakingBad\Api\HealthyMind\Api.Humor\bin\Debug\net6.0\Config\appsettings.Development.json
+C:\Projetos\BreakingBad\Api\HealthyMind\Api.Humor\bin\Debug\net6.0\Config\appsettings.json
+C:\Projetos\BreakingBad\Api\HealthyMind\Api.Humor\bin\Debug\net6.0\Application.Humor.dll
+C:\Projetos\BreakingBad\Api\HealthyMind\Api.Humor\bin\Debug\net6.0\Data.Humor.dll
+C:\Projetos\BreakingBad\Api\HealthyMind\Api.Humor\bin\Debug\net6.0\Domain.Humor.dll
+C:\Projetos\BreakingBad\Api\HealthyMind\Api.Humor\bin\Debug\net6.0\IoC.Humor.dll
+C:\Projetos\BreakingBad\Api\HealthyMind\Api.Humor\bin\Debug\net6.0\Data.Humor.pdb
+C:\Projetos\BreakingBad\Api\HealthyMind\Api.Humor\bin\Debug\net6.0\IoC.Humor.pdb
+C:\Projetos\BreakingBad\Api\HealthyMind\Api.Humor\bin\Debug\net6.0\Application.Humor.pdb
+C:\Projetos\BreakingBad\Api\HealthyMind\Api.Humor\bin\Debug\net6.0\Domain.Humor.pdb

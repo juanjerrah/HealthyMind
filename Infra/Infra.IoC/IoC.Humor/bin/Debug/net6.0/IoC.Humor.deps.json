@@ -7,14 +7,55 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "IoC.Humor/1.0.0": {
+        "dependencies": {
+          "Application.Humor": "1.0.0",
+          "Data.Humor": "1.0.0",
+          "Domain.Humor": "1.0.0"
+        },
         "runtime": {
           "IoC.Humor.dll": {}
+        }
+      },
+      "Application.Humor/1.0.0": {
+        "dependencies": {
+          "Domain.Humor": "1.0.0"
+        },
+        "runtime": {
+          "Application.Humor.dll": {}
+        }
+      },
+      "Data.Humor/1.0.0": {
+        "dependencies": {
+          "Domain.Humor": "1.0.0"
+        },
+        "runtime": {
+          "Data.Humor.dll": {}
+        }
+      },
+      "Domain.Humor/1.0.0": {
+        "runtime": {
+          "Domain.Humor.dll": {}
         }
       }
     }
   },
   "libraries": {
     "IoC.Humor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Application.Humor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Data.Humor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Domain.Humor/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

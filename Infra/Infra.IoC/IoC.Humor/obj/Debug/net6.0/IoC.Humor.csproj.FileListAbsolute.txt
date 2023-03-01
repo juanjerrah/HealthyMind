@@ -10,3 +10,10 @@ C:\Projetos\BreakingBad\Infra\Infra.IoC\IoC.Humor\obj\Debug\net6.0\IoC.Humor.dll
 C:\Projetos\BreakingBad\Infra\Infra.IoC\IoC.Humor\obj\Debug\net6.0\refint\IoC.Humor.dll
 C:\Projetos\BreakingBad\Infra\Infra.IoC\IoC.Humor\obj\Debug\net6.0\IoC.Humor.pdb
 C:\Projetos\BreakingBad\Infra\Infra.IoC\IoC.Humor\obj\Debug\net6.0\ref\IoC.Humor.dll
+C:\Projetos\BreakingBad\Infra\Infra.IoC\IoC.Humor\bin\Debug\net6.0\Application.Humor.dll
+C:\Projetos\BreakingBad\Infra\Infra.IoC\IoC.Humor\bin\Debug\net6.0\Data.Humor.dll
+C:\Projetos\BreakingBad\Infra\Infra.IoC\IoC.Humor\bin\Debug\net6.0\Domain.Humor.dll
+C:\Projetos\BreakingBad\Infra\Infra.IoC\IoC.Humor\bin\Debug\net6.0\Application.Humor.pdb
+C:\Projetos\BreakingBad\Infra\Infra.IoC\IoC.Humor\bin\Debug\net6.0\Domain.Humor.pdb
+C:\Projetos\BreakingBad\Infra\Infra.IoC\IoC.Humor\bin\Debug\net6.0\Data.Humor.pdb
+C:\Projetos\BreakingBad\Infra\Infra.IoC\IoC.Humor\obj\Debug\net6.0\IoC.Humor.csproj.CopyComplete
