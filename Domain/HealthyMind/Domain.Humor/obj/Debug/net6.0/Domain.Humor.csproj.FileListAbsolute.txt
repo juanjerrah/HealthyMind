@@ -10,3 +10,6 @@ C:\Projetos\BreakingBad\Domain\HealthyMind\Domain.Humor\obj\Debug\net6.0\Domain.
 C:\Projetos\BreakingBad\Domain\HealthyMind\Domain.Humor\obj\Debug\net6.0\refint\Domain.Humor.dll
 C:\Projetos\BreakingBad\Domain\HealthyMind\Domain.Humor\obj\Debug\net6.0\Domain.Humor.pdb
 C:\Projetos\BreakingBad\Domain\HealthyMind\Domain.Humor\obj\Debug\net6.0\ref\Domain.Humor.dll
+C:\Projetos\BreakingBad\Domain\HealthyMind\Domain.Humor\bin\Debug\net6.0\Domain.Core.dll
+C:\Projetos\BreakingBad\Domain\HealthyMind\Domain.Humor\bin\Debug\net6.0\Domain.Core.pdb
+C:\Projetos\BreakingBad\Domain\HealthyMind\Domain.Humor\obj\Debug\net6.0\Domain.Humor.csproj.CopyComplete

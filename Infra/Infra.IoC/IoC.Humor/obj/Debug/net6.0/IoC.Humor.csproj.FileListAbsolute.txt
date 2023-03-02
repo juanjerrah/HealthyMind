@@ -17,3 +17,5 @@ C:\Projetos\BreakingBad\Infra\Infra.IoC\IoC.Humor\bin\Debug\net6.0\Application.H
 C:\Projetos\BreakingBad\Infra\Infra.IoC\IoC.Humor\bin\Debug\net6.0\Domain.Humor.pdb
 C:\Projetos\BreakingBad\Infra\Infra.IoC\IoC.Humor\bin\Debug\net6.0\Data.Humor.pdb
 C:\Projetos\BreakingBad\Infra\Infra.IoC\IoC.Humor\obj\Debug\net6.0\IoC.Humor.csproj.CopyComplete
+C:\Projetos\BreakingBad\Infra\Infra.IoC\IoC.Humor\bin\Debug\net6.0\Domain.Core.dll
+C:\Projetos\BreakingBad\Infra\Infra.IoC\IoC.Humor\bin\Debug\net6.0\Domain.Core.pdb

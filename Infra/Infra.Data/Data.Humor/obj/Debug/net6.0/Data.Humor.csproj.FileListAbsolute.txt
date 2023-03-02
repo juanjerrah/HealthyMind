@@ -13,3 +13,5 @@ C:\Projetos\BreakingBad\Infra\Infra.Data\Data.Humor\obj\Debug\net6.0\ref\Data.Hu
 C:\Projetos\BreakingBad\Infra\Infra.Data\Data.Humor\bin\Debug\net6.0\Domain.Humor.dll
 C:\Projetos\BreakingBad\Infra\Infra.Data\Data.Humor\bin\Debug\net6.0\Domain.Humor.pdb
 C:\Projetos\BreakingBad\Infra\Infra.Data\Data.Humor\obj\Debug\net6.0\Data.Humor.csproj.CopyComplete
+C:\Projetos\BreakingBad\Infra\Infra.Data\Data.Humor\bin\Debug\net6.0\Domain.Core.dll
+C:\Projetos\BreakingBad\Infra\Infra.Data\Data.Humor\bin\Debug\net6.0\Domain.Core.pdb

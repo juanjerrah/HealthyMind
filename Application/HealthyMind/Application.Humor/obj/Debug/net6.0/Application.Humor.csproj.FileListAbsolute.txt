@@ -13,3 +13,5 @@ C:\Projetos\BreakingBad\Application\HealthyMind\Application.Humor\obj\Debug\net6
 C:\Projetos\BreakingBad\Application\HealthyMind\Application.Humor\bin\Debug\net6.0\Domain.Humor.dll
 C:\Projetos\BreakingBad\Application\HealthyMind\Application.Humor\bin\Debug\net6.0\Domain.Humor.pdb
 C:\Projetos\BreakingBad\Application\HealthyMind\Application.Humor\obj\Debug\net6.0\Application.Humor.csproj.CopyComplete
+C:\Projetos\BreakingBad\Application\HealthyMind\Application.Humor\bin\Debug\net6.0\Domain.Core.dll
+C:\Projetos\BreakingBad\Application\HealthyMind\Application.Humor\bin\Debug\net6.0\Domain.Core.pdb

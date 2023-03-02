@@ -33,3 +33,16 @@ C:\Projetos\BreakingBad\Api\HealthyMind\Api.Humor\bin\Debug\net6.0\Data.Humor.pd
 C:\Projetos\BreakingBad\Api\HealthyMind\Api.Humor\bin\Debug\net6.0\IoC.Humor.pdb
 C:\Projetos\BreakingBad\Api\HealthyMind\Api.Humor\bin\Debug\net6.0\Application.Humor.pdb
 C:\Projetos\BreakingBad\Api\HealthyMind\Api.Humor\bin\Debug\net6.0\Domain.Humor.pdb
+C:\Projetos\BreakingBad\Api\HealthyMind\Api.Humor\bin\Debug\net6.0\FluentValidation.dll
+C:\Projetos\BreakingBad\Api\HealthyMind\Api.Humor\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Projetos\BreakingBad\Api\HealthyMind\Api.Humor\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projetos\BreakingBad\Api\HealthyMind\Api.Humor\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Projetos\BreakingBad\Api\HealthyMind\Api.Humor\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Projetos\BreakingBad\Api\HealthyMind\Api.Humor\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Projetos\BreakingBad\Api\HealthyMind\Api.Humor\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Projetos\BreakingBad\Api\HealthyMind\Api.Humor\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Projetos\BreakingBad\Api\HealthyMind\Api.Humor\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Projetos\BreakingBad\Api\HealthyMind\Api.Humor\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Projetos\BreakingBad\Api\HealthyMind\Api.Humor\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Projetos\BreakingBad\Api\HealthyMind\Api.Humor\bin\Debug\net6.0\Domain.Core.dll
+C:\Projetos\BreakingBad\Api\HealthyMind\Api.Humor\bin\Debug\net6.0\Domain.Core.pdb
