@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UVvXKl9XhHxfmGMICUFirWek5pXjnG8G//AG1J59ZaL9eJpFmtoO16nmX25rj/hqdguMwuoQgsua8sCIw1wUzw==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\BreakingBad\\Domain\\HealthyMind\\Domain.Core\\Domain.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\juanj\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
