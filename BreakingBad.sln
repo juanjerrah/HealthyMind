@@ -34,6 +34,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HealthyMind", "HealthyMind"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Config", "Config", "{CABF8EFC-AAD8-431E-9A98-359F598BF7E4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain.Core", "Domain\HealthyMind\Domain.Core\Domain.Core.csproj", "{F820275B-B0A7-4AA4-B8D5-E26C941FB6E7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -64,6 +66,10 @@ Global
 		{2067571B-33D9-4554-8CAA-9EBD3CB72CAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2067571B-33D9-4554-8CAA-9EBD3CB72CAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2067571B-33D9-4554-8CAA-9EBD3CB72CAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F820275B-B0A7-4AA4-B8D5-E26C941FB6E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F820275B-B0A7-4AA4-B8D5-E26C941FB6E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F820275B-B0A7-4AA4-B8D5-E26C941FB6E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F820275B-B0A7-4AA4-B8D5-E26C941FB6E7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{5F61456B-E644-4687-AB68-8CA2C30559AC} = {F9FC8273-48A4-4951-9A25-768F12CDB32F}

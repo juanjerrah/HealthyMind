@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "siY+pkRlEoaNml8qZwW8IU48YhD9n78m15njMHZWq9uChGehcG8I6OvRJj9PvwM+F2WALDGhbRmcpcDJ19PQWg==",
+  "dgSpecHash": "xv8+E0qqWxfc67jRyF1bvtvaavN7ZFLTgmVXDbjgL5Cl72DqoR8f+Vk4BCmybAqCGw3Tw6lBgYWSyvUMST24QQ==",
   "success": true,
   "projectFilePath": "C:\\Projetos\\BreakingBad\\Application\\HealthyMind\\Application.Humor\\Application.Humor.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\juanj\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "rzE4MUWMHzfyENKX3vUhc5/ODR2WtMml3+91nphOSwWBOFBms56xD9RNBpoKoOxmjsAdLtjMJ7+7ba68muv20g==",
+  "dgSpecHash": "iZbxzm148c+fjuNOJgmYM3hVVvCZttQu1VJUYqiaC0i0Th77lqA6mtHHfj4THcIm7WIuYwVeE6VTPIYQkyhFYQ==",
   "success": true,
   "projectFilePath": "C:\\Projetos\\BreakingBad\\Infra\\Infra.IoC\\IoC.Humor\\IoC.Humor.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\juanj\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512"
+  ],
   "logs": []
 }
